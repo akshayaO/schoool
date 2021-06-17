@@ -1,0 +1,46 @@
+html {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+
+
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 10px;
+    top: 0px;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.link {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+
+}
+#marqueestyle{
+    width: 100%;
+    direction: right;
+    height: 100px;
+    color: black;
+    font-size: 120%;
+}
+#marquee1{
+    width: 100%;
+    background-color: chocolate;
+    height: 30px;
+}
+
+
+
